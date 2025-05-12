@@ -9,17 +9,6 @@ A cryptocurrency trading bot that makes trading decisions based on performance m
 - Supports multiple exchanges through the CCXT library
 - Simulation mode for testing strategies without real trades
 - Detailed logging and trade history
-# Fee-Aware Crypto Trading Bot
-
-A cryptocurrency trading bot that makes trading decisions based on performance metrics while accounting for exchange fees.
-
-## Features
-
-- Compares performance across multiple cryptocurrencies
-- Fee-aware trading decisions to ensure profitability
-- Supports multiple exchanges through the CCXT library
-- Simulation mode for testing strategies without real trades
-- Detailed logging and trade history
 
 ## Installation
 
