@@ -13,13 +13,13 @@ A cryptocurrency trading bot that makes trading decisions based on performance m
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/crypto-trading-bot.git cd crypto-trading-bot
+git clone https://github.com/Nasker/TraderBot.git
+cd TraderBot
 
-
-2. Install dependencies:
+3. Install dependencies:
 pip install -r requirements.txt
 
-3. Create a `.env` file with your API keys:
+4. Create a `.env` file with your API keys:
 API_KEY=your_api_key_here API_SECRET=your_api_secret_here API_PASSPHRASE=your_api_passphrase_here # Required for some exchanges like OKX
 
 ## Usage
